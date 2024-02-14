@@ -12,13 +12,17 @@ ${buttonSearch}        //android.widget.Button[@resource-id="com.example.myappli
 Tap search button
     Open Test Application
     Tap Akses
-    User Input Login Data
+    User Input Login Valid Data
     Tap Login Akses
     Wait Until Page Contains    Sign Out
     Set Appium Timeout        10
     Tap        ${search}
     Wait Until Page Contains    Enter Flight Number
 
-User Input search
+User Input Valid Search
     Input Text    ${searchInput}    DA935
+    Tap    ${buttonSearch}
+
+User Input Invalid Search
+    Input Text    ${searchInput}    AA191
     Tap    ${buttonSearch}
