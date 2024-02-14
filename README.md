@@ -8,4 +8,4 @@
 <p>Documentation : https://drive.google.com/drive/folders/1IzD_jYjim0gyr7nu5o_pfH8v-p8xKD-e?usp=sharing</p>
 <p>Test Case</p>
 <p>Test Case Documentation : https://docs.google.com/spreadsheets/d/1ybqpYFWNd6TEt-x1UBkIgSd_nSZGLzgsi5cvgvzFbh4/edit?usp=sharing</p>
-<p>Note : Saya melakukan testing secara masing-masing dikarenakan aplikasi yang ada sering tercadi force close, sehingga tidak mudah jika dilakukan testing secara langsung bersama-sama</p>
+<p>Note : Saya melakukan testing secara masing-masing dikarenakan aplikasi yang ada sering terjadi force close, sehingga tidak mudah jika dilakukan testing secara langsung bersama-sama</p>
